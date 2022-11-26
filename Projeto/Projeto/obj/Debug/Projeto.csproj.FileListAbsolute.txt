@@ -1,0 +1,696 @@
+C:\Users\Cidenai\source\repos\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Cidenai\source\repos\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Cidenai\source\repos\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Users\Cidenai\source\repos\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Users\crist\Desktop\PROJETOCIDENAI\Projeto (1)\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\crist\Desktop\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\crist\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\Projeto.exe
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\Projeto.pdb
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\MySql.Data.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\System.Buffers.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\System.Memory.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\ZstdNet.dll
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\MySql.Data.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\System.Buffers.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\System.Memory.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.exe
+C:\Users\crist\Desktop\vsfvgv\Projeto\obj\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.TrustInfo.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto (2)\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizador.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizador.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.TrustInfo.xml
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\crist\Desktop\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsSaidas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsSaidas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaidas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizador.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.TrustInfo.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto\Projeto Main\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizador.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.TrustInfo.xml
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormCabazes.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsCabazes.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaida.resources
+C:\Users\crfes\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsSaida.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsCabazes.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormCabazes.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsSaida.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaida.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizador.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.TrustInfo.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormFuncoes.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDashboard.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDashboard.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormFuncoes.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsCabazes.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormCabazes.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsSaida.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaida.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizadores.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.TrustInfo.xml
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Goncalo\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Goncalo\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Goncalo\Projeto\Projeto\bin\Debug\Projeto.application
+C:\Goncalo\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Goncalo\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Goncalo\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\MySql.Data.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\ZstdNet.dll
+C:\Goncalo\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+C:\Goncalo\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\MySql.Data.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Goncalo\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDashboard.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormEditCabaz.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormFuncoes.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsCabazes.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormCabazes.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsSaida.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaida.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizadores.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.TrustInfo.xml
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.application
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Goncalo\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Goncalo\12ano\projeto_bancoAlimentar\Projeto_STOR\Projeto\Projeto\Projeto\obj\Debug\Projeto.Forms.FormEditCabaz.resources
+G:\C#\banco\Projeto\Projeto\bin\Debug\Projeto.exe.config
+G:\C#\banco\Projeto\Projeto\bin\Debug\Projeto.exe.manifest
+G:\C#\banco\Projeto\Projeto\bin\Debug\Projeto.application
+G:\C#\banco\Projeto\Projeto\bin\Debug\Projeto.exe
+G:\C#\banco\Projeto\Projeto\bin\Debug\Projeto.pdb
+G:\C#\banco\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\FontAwesome.Sharp.Pro.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\Google.Protobuf.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\MySql.Data.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\System.Buffers.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\System.Memory.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\ZstdNet.dll
+G:\C#\banco\Projeto\Projeto\bin\Debug\BouncyCastle.Crypto.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\Google.Protobuf.pdb
+G:\C#\banco\Projeto\Projeto\bin\Debug\Google.Protobuf.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\K4os.Hash.xxHash.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\MySql.Data.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\System.Buffers.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\System.Memory.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+G:\C#\banco\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.FormCatDadores.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.FormCategorias.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDashboard.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormDoadores.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.Entradas.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormEditCabaz.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormFuncoes.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsEntradas.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsCabazes.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormLocalidades.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormMarcas.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormProduto.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormReceptores.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormCabazes.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormInsSaida.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormSaida.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormTurma.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Forms.FormUtilizadores.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.TrustInfo.xml
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.exe.manifest
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.application
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.exe
+G:\C#\banco\Projeto\Projeto\obj\Debug\Projeto.pdb
